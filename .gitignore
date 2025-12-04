@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Environment files
+.env
+.gemini/.env
+
+day-6/.gemini/.env
+*.env
+day-6/.gemini/settings.json
